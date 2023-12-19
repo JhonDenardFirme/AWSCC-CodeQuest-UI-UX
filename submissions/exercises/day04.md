@@ -17,8 +17,10 @@ A. Visual Hierarchy
 <a href="https://drive.google.com/uc?export=view&id=10vHq_YnREdfnGMqk9Lo9DawzRTu2_Cdc"><img src="https://drive.google.com/uc?export=view&id=10vHq_YnREdfnGMqk9Lo9DawzRTu2_Cdc" style="width: 7500px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 
+
 B. Typography
 <a href="https://drive.google.com/uc?export=view&id=1wwq-o5i7LxTm2EGtmdhzMcUpWmPlLlW4"><img src="https://drive.google.com/uc?export=view&id=1wwq-o5i7LxTm2EGtmdhzMcUpWmPlLlW4" style="width: 7500px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
 
 
 C. Accessibility 
