@@ -9,8 +9,7 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 
   YouTube Redesign : https://www.figma.com/file/KvMaN1GvKBedjRV0EfMsMu/YouTube-Redesign?type=design&node-id=0%3A1&mode=design&t=L7CxDuAAw9ly1pRz-1
 
-![My Remote Image]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://www.figma.com/file/KvMaN1GvKBedjRV0EfMsMu/YouTube-Redesign?type=design&node-id=0%3A1&mode=design&t=L7CxDuAAw9ly1pRz-1))
-
+![Youtube Redesign](https://drive.google.com/file/d/1GGm8V_bw5y1FCKDPCBIadTHQLbXPYvz3/view?usp=drive_link)
 
 
 - Brief explanation of your experience or reflection
