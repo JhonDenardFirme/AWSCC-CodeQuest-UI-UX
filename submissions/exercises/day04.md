@@ -7,6 +7,10 @@ You've made it—great job! Now, here's the scoop: this markdown file is your **
 Remember, you're free to add your personal touch, but keep the sacred requirements intact; they are the guardians of order here. This markdown file should or may include:
 
 -   Link to your own file of **"Week 1 [Day 4] : Activity"**
+
+Activity: https://www.figma.com/file/Exnj5VbCYxZd72rjUlIfbj/Week-1-(day-4)-%3A-Design-Components-(Community)?type=design&node-id=4%3A167&mode=design&t=x7bVd7f2gPZ72xeS-1
+
+
 -   A screenshot of your final activity output _(optional)_
 
 Ready to include your output for **Day 4**? Let the customization begin! 🚀✨
